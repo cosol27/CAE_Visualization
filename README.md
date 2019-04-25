@@ -2,6 +2,8 @@
   定制了新协议GeneralData，和旧协议GeneralDataOld的可视化后处理工具箱
 
 ## 文件说明 
+  + **GeneralDataOld.cs**  
+      + 新版协议。 **说明:** 基于新协议的可视化工具箱还需改动，ProtocolOld文件下的脚本现主要针对旧协议
   + ProtocolOld  
       + CAE_OnGUI.cs  
         + Unity里的GUI函数，一般仅用于调试 
@@ -18,4 +20,3 @@
       + ReadData.cs  
         + 数据读取类  
   + README.md
-  
